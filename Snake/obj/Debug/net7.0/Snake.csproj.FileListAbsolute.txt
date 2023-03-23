@@ -1,0 +1,15 @@
+/Users/axel/Documents/GitHub/Snake/Snake/bin/Debug/net7.0/Snake
+/Users/axel/Documents/GitHub/Snake/Snake/bin/Debug/net7.0/Snake.deps.json
+/Users/axel/Documents/GitHub/Snake/Snake/bin/Debug/net7.0/Snake.runtimeconfig.json
+/Users/axel/Documents/GitHub/Snake/Snake/bin/Debug/net7.0/Snake.dll
+/Users/axel/Documents/GitHub/Snake/Snake/bin/Debug/net7.0/Snake.pdb
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/Snake.csproj.AssemblyReference.cache
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/Snake.AssemblyInfoInputs.cache
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/Snake.AssemblyInfo.cs
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/Snake.csproj.CoreCompileInputs.cache
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/Snake.dll
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/refint/Snake.dll
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/Snake.pdb
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/Snake.genruntimeconfig.cache
+/Users/axel/Documents/GitHub/Snake/Snake/obj/Debug/net7.0/ref/Snake.dll
